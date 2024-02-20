@@ -1,4 +1,4 @@
-ROM node:19-alpine
+FROM node:19-alpine
 WORKDIR /app
 COPY . .
 EXPOSE 8080

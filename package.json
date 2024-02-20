@@ -4,7 +4,7 @@
   "description": "SE Module 5 Exercise App",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "test"
   },
   "author": "",
